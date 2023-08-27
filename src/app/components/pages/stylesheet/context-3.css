@@ -1,0 +1,102 @@
+.cover-3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 90px;
+    margin-bottom: 10px;
+}
+.title-3{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 140px;
+    height: 50px;
+    background-color: rgb(10, 33, 58);
+    color: white;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    font-family: Righteous;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.heading-3{
+    font-family: Righteous;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(59, 108, 188, 1);
+    max-width: 400px;
+    margin-left: 60px;
+    margin-top: 40px;
+
+}
+
+.content-3{
+   margin-left: 60px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+
+.knowMore-3{
+    margin-top: 25px;
+    margin-left: 60px;
+    font-family: Righteous;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(59, 108, 188, 1);
+}
+
+.arrow-3{
+    margin-left: 30px;
+    zoom: 2;
+    display: inline-block;
+}
+
+ /* tab  */
+
+ .cover-3-tab{
+    display: grid ;
+    grid-template-columns: repeat(2,1fr) ;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.heading-3-tab{
+    font-family: Righteous;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(59, 108, 188, 1);
+    max-width: 400px;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+
+.content-3-tab{
+   padding-top: 10px; 
+    margin-left: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    padding-top: 10px;
+    font-size: large;
+    font-family: Righteous;
+    letter-spacing: 2.02px;
+}

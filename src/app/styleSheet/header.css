@@ -1,0 +1,91 @@
+
+.dropdown{
+padding-right: 10px;
+}
+.dropdown-menu{
+--bs-dropdown-min-width: 6rem;
+}
+.dropdown-menu.show {
+    translate: -50% !important;
+}
+.form-select{
+    font-size: 12px;
+    background-color: #D3DADD;
+    border-radius: 0;
+    margin-top: 18px;
+    max-width: 80px;
+    max-height: 28px;
+    border: 1px solid black;
+}
+.nav-link{
+    font-family: Righteous;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 51px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.navstyle{
+    background-color: #D3DADD;
+    margin-bottom: 0px !important;
+    padding-bottom: 16px;
+}
+/* #deliveris-popUp{
+    width: 50%;
+    
+    margin-left: 385px;
+} */
+.css-3bmhjh-MuiPaper-root-MuiPopover-paper{
+    margin-top: 50px;
+    padding: 3%;
+    top: 10px !important;
+    border-radius: 30px !important;
+    width: 60%; 
+}
+.arrow-1{
+    margin-top: -50px;
+    transform: rotate(270deg);
+}
+
+.arrow-1 i svg{
+    color: white;
+}
+.arrow-2{
+    margin-top: -70px;
+    transform: rotate(270deg);
+}
+
+.arrow-2 i svg{
+    color: white;
+}
+.arrow3{
+    margin-top: -60px;
+    transform: rotate(270deg);
+}
+
+.arrow3 i svg{
+    color: white;
+}
+
+/* .MuiPopover-root MuiModal-root css-e2zslh-MuiModal-root-MuiPopover-root */
+
+.css-e2zslh-MuiModal-root-MuiPopover-root{
+    scale: 0.8 !important;
+    top: -50px !important;
+    Left: 176PX !important;
+}
+
+.dropdown-menu-light{
+    width: max-content !important;
+}
+/* .custom-dropdown1-contact .dropdown-menu.show */
+
+.custom-dropdown1-contact .dropdown-menu.show{
+    translate: -26% !important;
+}
+
+.custom-dropdown1-sectors .dropdown-menu.show{
+    translate: -41% !important;
+}
+
+

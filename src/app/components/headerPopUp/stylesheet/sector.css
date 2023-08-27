@@ -1,0 +1,19 @@
+.cover{
+    display: flex;
+    flex-direction: column;
+}
+.cover div{
+        display: flex;
+    flex-direction: row;
+}
+.cover div div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 60%;
+    padding-top: 18px;
+}
+
+.MuiPaper-root .MuiPaper-elevation .MuiPaper-rounded .MuiPaper-elevation8 .MuiPopover-paper .css-3bmhjh-MuiPaper-root-MuiPopover-paper{
+    padding: 16px !important;
+}

@@ -1,0 +1,37 @@
+/* #carousel-poster{ */
+    /* width: 150px; */
+/* } */
+
+.react-multi-carousel-list{
+    margin: 20px 0 10px;
+}
+
+/* .react-multi-carousel-item {
+    margin-right: 80px;
+    margin-left: 20px;
+} */
+
+.react-multi-carousel-item {
+    padding-right: 0;
+}
+
+.react-multi-carousel-dot-list{
+    position: relative;
+}
+
+.title-5{
+    margin-left: 20px;
+    margin-top: 40px;
+    margin-bottom: -60px;
+    height: 39px;
+    width: 600px;
+    left: 60px;
+    top: 889px;
+    font-family: Righteous;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(59, 108, 188, 1);
+}
